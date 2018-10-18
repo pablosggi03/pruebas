@@ -1,3 +1,6 @@
-GitHub
-username pablossgi03
-contraseña mozego38
+//Informar de los datos de animal1
+animal1.nace();
+System.out.println("Mi nombre es: " + animal1.getNombre() +
+                  " y mi edad es " + animal1.getEdad() );
+                  
+                  }
